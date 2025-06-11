@@ -29,6 +29,7 @@ import 'package:project/screen/carou.dart';
 import 'package:project/screen/cauro.dart';
 import 'package:project/screen/ex_amaxon.dart';
 import 'package:project/screen/home.dart';
+import 'package:project/screen/list.dart';
 import 'package:project/screen/product.dart';
 import 'package:project/screen/spotify.dart';
 import 'package:project/screen/title.dart';
@@ -55,7 +56,7 @@ class MyProject extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Packss()
+      home: Liss()
 
 
     );

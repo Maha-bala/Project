@@ -78,7 +78,6 @@ class _GSTState extends State<GST> {
 
                  children: [
                    Text("Inclusive:$inclusive"),
-
                  ],
                ),
 
