@@ -106,6 +106,7 @@ var dataMode=[
   {"image":"assets/Pack/ear2.jpg","text":"Keep shopping for bluetooth's...."},
 ];
 
+
 class spot
 {
   String? image;
@@ -117,26 +118,26 @@ class spot
 List lis4=datas.map((e)=>spot(e["image"],e["text"])).toList();
 
 var datas=[
-  {"image":"assets/s1.jpg","text":"Halamithi habibo"},
-  {"image":"assets/s2.jpg","text":"Ranjithame"},
-  {"image":"assets/s3.jpg","text":"Mental Manadhil"},
-  {"image":"assets/s4.jpg","text":"Uyire"},
-  {"image":"assets/s5.jpg","text":"Vennilave vennilave"},
-  {"image":"assets/s6.jpg","text":"Tamilselvi"},
-  {"image":"assets/s7.jpg","text":"Bae"},
-  {"image":"assets/s8.jpg","text":"Pathavaikum Paravikaara"},
-  {"image":"assets/s11.jpg","text":"Master"},
-  {"image":"assets/s12.jpg","text":"Golden sparrow"},
-  {"image":"assets/s13.jpg","text":"Manasilayo"},
-  {"image":"assets/s10.jpg","text":"Vijay"},
-  {"image":"assets/s14.jpg","text":"Nalla nanban"},
-  {"image":"assets/s9.jpg","text":"Vethalaiya potendi"},
-  {"image":"assets/s5.jpg","text":"Vennilave vennilave"},
-  {"image":"assets/s6.jpg","text":"Tamilselvi"},
-  {"image":"assets/s7.jpg","text":"Bae"},
-  {"image":"assets/s8.jpg","text":"Pathavaikum Paravikaara"},
-  {"image":"assets/s11.jpg","text":"Master"},
-  {"image":"assets/s12.jpg","text":"Golden sparrow"},
+  {"image":"assets/panda.jpg","text":"Halamithi habibo"},
+  {"image":"assets/panda.jpg","text":"Ranjithame"},
+  {"image":"assets/panda.jpg","text":"Mental Manadhil"},
+  {"image":"assets/panda.jpg","text":"Uyire"},
+  {"image":"assets/panda.jpg","text":"Vennilave vennilave"},
+  {"image":"assets/panda.jpg","text":"Tamilselvi"},
+  {"image":"assets/panda.jpg","text":"Bae"},
+  {"image":"assets/panda.jpg","text":"Pathavaikum Paravikaara"},
+  {"image":"assets/panda.jpg","text":"Master"},
+  {"image":"assets/panda.jpg","text":"Golden sparrow"},
+  {"image":"assets/panda.jpg","text":"Manasilayo"},
+  {"image":"assets/panda.jpg","text":"Vijay"},
+  {"image":"assets/panda.jpg","text":"Nalla nanban"},
+  {"image":"assets/panda.jpg","text":"Vethalaiya potendi"},
+  {"image":"assets/panda.jpg","text":"Vennilave vennilave"},
+  {"image":"assets/panda.jpg","text":"Tamilselvi"},
+  {"image":"assets/panda.jpg","text":"Bae"},
+  {"image":"assets/panda.jpg","text":"Pathavaikum Paravikaara"},
+  {"image":"assets/panda.jpg","text":"Master"},
+  {"image":"assets/panda.jpg","text":"Golden sparrow"},
 ];
 
 class todo

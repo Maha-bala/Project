@@ -46,6 +46,7 @@ class _BmiState extends State<Bmi> {
   
   TextEditingController ctr=TextEditingController();
   TextEditingController ctr2=TextEditingController();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

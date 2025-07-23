@@ -82,7 +82,6 @@ class _CalcuState extends State<Calcu> {
                       ElevatedButton(onPressed: ()
                       {
 
-
                       }, child: IconButton(onPressed: (){}, icon: Icon(Icons.backspace)),style: ElevatedButton.styleFrom(shape: CircleBorder(),padding: EdgeInsets.all(35)),),
                       ElevatedButton(onPressed: ()
                       {

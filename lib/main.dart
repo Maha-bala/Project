@@ -27,13 +27,17 @@ import 'package:project/screen/botnavi.dart';
 import 'package:project/screen/bottom.dart';
 import 'package:project/screen/carou.dart';
 import 'package:project/screen/cauro.dart';
+import 'package:project/screen/constant.dart';
 import 'package:project/screen/ex_amaxon.dart';
 import 'package:project/screen/home.dart';
 import 'package:project/screen/list.dart';
+import 'package:project/screen/listmin.dart';
 import 'package:project/screen/product.dart';
+import 'package:project/screen/sampl.dart';
 import 'package:project/screen/spotify.dart';
 import 'package:project/screen/title.dart';
 import 'package:project/tab.dart';
+import 'package:project/taskbar.dart';
 import 'package:project/test.dart';
 import 'package:project/text.dart';
 import 'package:project/tit.dart';
@@ -41,6 +45,7 @@ import 'package:project/valid.dart' hide qwerty;
 import 'package:project/validd.dart';
 import 'package:project/visibility.dart';
 import 'package:project/visible.dart';
+
 
 import 'demo_cal.dart';
 import 'login.dart';
@@ -57,8 +62,6 @@ class MyProject extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Liss()
-
-
     );
   }
 }
